@@ -1,0 +1,13 @@
+﻿body{
+	margin:0;
+	padding:0;
+}
+
+#box { 
+  position:absolute; 
+  background:red;
+  width:100px;
+  height:50px;
+  top:200px;
+  left:50px;
+}
